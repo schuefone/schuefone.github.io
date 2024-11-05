@@ -1,5 +1,5 @@
-title: Albert Schueller, Walla Walla
-description: Various project
-show_downloads: true
+title: Albert Schueller
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-leap-day
