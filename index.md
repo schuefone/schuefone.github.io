@@ -13,5 +13,5 @@ layout: default
 
 ## Google Location Data
 
-{% include_relative figures/five_mile.html %}
+{% include_relative figures/five_mile.html }
 
