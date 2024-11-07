@@ -10,6 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+
+# Projects
+
+## Location Data Analysis
+
+Here we filter a large collection of location data points to just those
+within 50 meters of a specific location.
+
+<iframe src="/figures/five_mile.html" width="800" height="600"></iframe>
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
