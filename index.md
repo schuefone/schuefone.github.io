@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Here we filter a large collection of location data points to just those
 within 50 meters of a specific location.
 
-{% include_relative figures/five_mile.html}
+{% include_relative figures/five_mile.html %}
 
 # Header 1
 
