@@ -2,11 +2,10 @@
 layout: default
 ---
 
-# Background & Interests
-
-My areas of research interest lie in computational geometry, inverse
-problems, numerical analysis, Voronoi tessellations, partial differential
-equations, and whatever else piques my interest.
+**Background & Interests:** My areas of research interest lie in
+computational geometry, inverse problems, numerical analysis, Voronoi
+tessellations, partial differential equations, and whatever else piques my
+interest.
 
 Evidence-based pedagogical innovations are also of great interest. Helping
 students to engage with mathematics and to develop their mathematical
