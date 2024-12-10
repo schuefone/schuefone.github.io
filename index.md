@@ -19,4 +19,6 @@ thinking skills is my favorite thing to do.
 "sketch" interactive, web-based, graphical apps. This is a gallery of a few
 sketches.
 
+1. [Three Body Simulator](https://schuefone.github.io/ThreeBody/). Simulates the 2D motion of 3 masses mutually interacting under the force of gravity.
+
 (coming soon)
