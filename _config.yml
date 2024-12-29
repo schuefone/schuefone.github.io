@@ -27,7 +27,7 @@ url: "https://schuefone.github.io" # the base hostname & protocol for your site,
 github_username:  schuefone
 repository: "schuefone/schuefone.github.io"
 logo: "/assets/images/github_uncountable.png"
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Build settings
 #theme: minima
