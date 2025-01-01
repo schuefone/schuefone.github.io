@@ -1,68 +1,39 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Uncountable
-email: schuelaw@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A place to share projects, ideas and visualizations.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://schuefone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  schuefone
-repository: "schuefone/schuefone.github.io"
-logo: "/assets/images/github_uncountable.png"
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+description: "A portfolio of works and interests."
+url: https://carrot.whitman.edu
+baseurl: ""
 
-# Build settings
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+author:
+  name: Albert Schueller
+  email: schuelaw@whitman.edu
+  bio: "Teacher and Mathematician."
+
+social:
+  github: schuefone
+  instagram: uncountableset
+
+nav:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Blog
+    url: /blog/
+  - name: Projects
+    url: /projects/
+
+theme: jekyll-theme-leap-day
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 5
+paginate_path: "/page:num/"
+
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-seo-tag
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-#
-# Schuelaw 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
+footer:
+  copyright: "© 2025 Albert Schueller. Built with Leap Day Theme."
 
