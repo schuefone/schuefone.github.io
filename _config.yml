@@ -1,39 +1,6 @@
 title: Uncountable
 description: "A portfolio of works and interests."
-url: https://carrot.whitman.edu
-baseurl: ""
-
-author:
-  name: Albert Schueller
-  email: schuelaw@whitman.edu
-  bio: "Teacher and Mathematician."
-
-social:
-  github: schuefone
-  instagram: uncountableset
-
-nav:
-  - name: Home
-    url: /
-  - name: About
-    url: /about/
-  - name: Blog
-    url: /blog/
-  - name: Projects
-    url: /projects/
 
 theme: jekyll-theme-leap-day
 
-markdown: kramdown
-highlighter: rouge
-
-paginate: 5
-paginate_path: "/page:num/"
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-footer:
-  copyright: "© 2025 Albert Schueller. Built with Leap Day Theme."
-
+show_downloads: false
