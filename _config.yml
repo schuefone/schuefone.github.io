@@ -1,6 +1,5 @@
+theme: jekyll-theme-minimal
 title: Uncountable
 description: "A portfolio of works and interests."
-
-theme: jekyll-theme-minimal
-
+logo: /assets/logo.png
 show_downloads: false
