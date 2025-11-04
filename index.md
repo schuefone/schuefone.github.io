@@ -11,6 +11,10 @@ A collection of teaching and pedagogical resources developed teaching
 mathematics at a small liberal arts college in the United States since
 1996.
 
+## Example Temperature/Wind Project
+
+[Here](WindSpeedDirection) is a visualization of windspeed and direction.
+
 ## Phone Sensor Math
 
 Here is the [Phone Sensor Math](https://github.com/schuelaw/PhoneSensorMath) site dedicated to ways in which ordinary smart phone sensors (e.g. GPS, accelerometer, etc) can be used to collect data for analysis in calculus and physics classes. Developed with the help of [Ally Collier](https://www.linkedin.com/in/ally-collier-4bb421190/).
